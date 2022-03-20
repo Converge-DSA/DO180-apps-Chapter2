@@ -1,1 +1,2 @@
-# DO180-apps-Chapter2
+# DO180-apps
+DO180 Repository for Sample Applications
